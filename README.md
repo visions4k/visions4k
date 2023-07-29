@@ -9,8 +9,8 @@ simple things are better
 youtube: <a href="https://www.youtube.com/channel/UCMZaQU8bCN4w7SVkXvBPOHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="visions" height="30" width="40" /></a>
 discord acc: <a href="https://discord.com/users/249606696052326420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord account" height="30" width="40" /></a>
 </p>
-visionary: <a href="https://discord.gg/groupfinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="visionary" height="30" width="40" /></a>
-</p>
+
+![Visionary](https://discordapp.com/api/guilds/1107741888682938450/widget.png?style=banner3)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=visions4k&show_icons=true&locale=en&layout=compact" alt="visions4k" /></p>
