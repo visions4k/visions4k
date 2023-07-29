@@ -12,7 +12,7 @@ discord acc: <a href="https://discord.com/users/249606696052326420" target="blan
 
 <img src="https://discord.c99.nl/widget/theme-2/249606696052326420.png"/>
 
-![Visionary](https://discordapp.com/api/guilds/1107741888682938450/widget.png?style=banner3)
+![[Visionary](https://discord.gg/groupfinder)](https://discordapp.com/api/guilds/1107741888682938450/widget.png?style=banner3)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=visions4k&show_icons=true&locale=en&layout=compact" alt="visions4k" /></p>
