@@ -11,5 +11,5 @@ discord acc: <a href="https://discord.com/users/1151470740034568242" target="bla
 </p>
 </p>
 
-<img src="https://discord.c99.nl/widget/theme-3/249606696052326420.png"/>
+<img src="https://discord.c99.nl/widget/theme-1/1151470740034568242.png"/>
 
